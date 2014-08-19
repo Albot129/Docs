@@ -6,8 +6,6 @@
 Welcome to Biblica documentation!
 ================================
 
-:ref:`gettingStarted`
-
 Contents:
 
 .. toctree::
