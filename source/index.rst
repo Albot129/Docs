@@ -6,12 +6,14 @@
 Welcome to Biblica documentation!
 ================================
 
+:ref:`gettingStarted`
+
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-    gettingStarted
+   gettingStarted
 
 
 Indices and tables
